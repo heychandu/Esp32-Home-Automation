@@ -3,13 +3,6 @@
  * ESP32 Smart Home Automation
  * Author: Chandu R
  * GitHub: https://github.com/heychandu
- *
- * Features:
- * - 4 Web Controlled Outputs
- * - 4 Physical Push Buttons
- * - Real-Time Status Updates
- * - mDNS Support
- * - Reset All Outputs
  */
 
 #include <WiFi.h>
