@@ -161,7 +161,7 @@ Esp-32-based-home-automation/
 
 ---
 
-## Author
+## Author Details
 
 Chandu R
 
