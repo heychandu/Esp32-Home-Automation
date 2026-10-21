@@ -62,7 +62,7 @@ A Wi-Fi based Home Automation System built using the ESP32 microcontroller. This
 
 ---
 
-## Circuit Description
+## Circuit Description 
 
 The ESP32 hosts a web server that allows users to control four outputs from any device connected to the same Wi-Fi network. Each output can be controlled through both the web interface and a dedicated physical push button.
 
