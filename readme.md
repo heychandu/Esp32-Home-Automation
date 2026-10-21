@@ -149,7 +149,7 @@ Esp-32-based-home-automation/
 
 ---
 
-## Future Enhancements
+## Future Enhancements 
 
 * MQTT Integration
 * Home Assistant Integration
